@@ -23,7 +23,7 @@ datetime
 - Based on user input for origin, destination, date, and time
 
 ---
-# Example about how to make a search
+# Example of how to make a query
 - Origen: Heuston
 - Destination_Station: Kildare
 - Date (DD MMM YYYY): 06/08/2025
