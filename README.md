@@ -24,10 +24,10 @@ datetime
 
 ---
 # Example about how to make a search
-Origen: Heuston
-Destination_Station: Kildare
-Date (DD MMM YYYY): 06/08/2025
-Deperture Time (HH:MM): 14:00
+- Origen: Heuston
+- Destination_Station: Kildare
+- Date (DD MMM YYYY): 06/08/2025
+- Deperture Time (HH:MM): 14:00
 
 --
 # Author
